@@ -1,5 +1,3 @@
-* DELETE: Add repo link to rm-prework-2026-hub that will be sent to Tim by May 16th.
-
 # Recipies
 
 > A simple multi-page site to display some recipes with links to practice basic HTML structure.
