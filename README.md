@@ -81,7 +81,7 @@ Key things learned from building this project:
 
 Things I would improve in a future iteration:
 
-* Add styling via CSS.
+* Add more advanced styling via CSS.
 * Add a search bar that searches through the titles of all the recipes.
 * Adding more recipes that my family uses!
 
