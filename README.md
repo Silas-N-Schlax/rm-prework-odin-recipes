@@ -27,8 +27,6 @@ The Odin Project provides a comprehensive open-source curriculum focused on lear
 
 Describe what this project does and what you practiced while building it.
 
-Example goals for this project may include:
-
 * Structuring HTML pages
 * Practicing Git version control via commit messages
 
@@ -38,8 +36,6 @@ The goal of these projects is not perfection, but **learning through building an
 
 # Skills Practiced
 
-Examples (edit per project):
-
 * HTML
 * Git
 * GitHub
@@ -47,8 +43,6 @@ Examples (edit per project):
 ---
 
 # Live Preview (Optional)
-
-If deployed, include a link here.
 
 Example: [https://silas-n-schlax.github.io/rm-prework-odin-recipes/](https://silas-n-schlax.github.io/rm-prework-odin-recipes/)
 
