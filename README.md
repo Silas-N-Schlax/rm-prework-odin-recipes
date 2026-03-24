@@ -30,8 +30,6 @@ Describe what this project does and what you practiced while building it.
 * Structuring HTML pages
 * Practicing Git version control via commit messages
 
-The goal of these projects is not perfection, but **learning through building and iteration**.
-
 ---
 
 # Skills Practiced
