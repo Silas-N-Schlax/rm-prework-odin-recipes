@@ -38,7 +38,7 @@ The Odin Project provides a comprehensive open-source curriculum focused on lear
 
 ---
 
-# Live Preview (Optional)
+# Live Preview
 
 Example: [https://silas-n-schlax.github.io/rm-prework-odin-recipes/](https://silas-n-schlax.github.io/rm-prework-odin-recipes/)
 
